@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "transDemo_5_4",
+			"Path": "..\\Source\\transDemo_5_4.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "transDemo_5_4Editor",
+			"Path": "..\\Source\\transDemo_5_4Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

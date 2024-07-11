@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"Z:\\ue\\projects\\demo\\trans\\transDemo_5_4\\Source\\transDemo_5_4\\transDemo_5_4.Build.cs",
+		"Z:\\ue\\projects\\demo\\trans\\transDemo_5_4\\Source\\transDemo_5_4.Target.cs",
+		"Z:\\ue\\projects\\demo\\trans\\transDemo_5_4\\Source\\transDemo_5_4Editor.Target.cs"
+	],
+	"EngineVersion": "5.4.2"
+}
